@@ -53,7 +53,7 @@ If you have Git installed:
 
 ```bash
 git clone https://github.com/else/hangman.git
-cd hangman-tkinter
+cd hangman
 ```
 
 Or download a ZIP from GitHub and extract to your preferred folder.
@@ -76,7 +76,7 @@ The Hangman window will open — start guessing! 🎯
 hangman-tkinter/
 ├── hangman.py     # Main game code
 ├── README.md          # Project documentation
-└── words.txt          # (Optional) External word list
+
 ```
 
 ---
@@ -85,7 +85,7 @@ hangman-tkinter/
 
 ### Add more words
 
-Edit the `WORDS` list inside `hangman_gui.py` or load words dynamically from `words.txt`:
+Edit the `WORDS` list inside `hangman.py` or load words dynamically from `words.txt`:
 
 ```python
 with open("words.txt") as f:
