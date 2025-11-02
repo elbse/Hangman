@@ -126,10 +126,7 @@ Please follow the project style and include descriptive commit messages.
 
 ## 📸 Screenshots
 
-Add screenshots or GIFs to the repo (e.g. `/assets/screenshot.png`) and reference them here:
-
-`![Gameplay screenshot](assets/screenshot.png)`
-
+<img width="402" height="532" alt="Image" src="https://github.com/user-attachments/assets/64305dd3-2537-4650-897e-3adaa405442c" />
 ---
 
 ## 👨‍💻 Author
