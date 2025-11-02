@@ -100,7 +100,7 @@ WORDS = ["python", "developer", "keyboard", "umbrella", "zebra", "pizza"]
 
 ### Change the theme
 
-Adjust colors or fonts in the `create_widgets()` method (or equivalent) in `hangman_gui.py`:
+Adjust colors or fonts in the `create_widgets()` method (or equivalent) in `hangman.py`:
 
 ```python
 self.root.config(bg="#333")         # Background color
