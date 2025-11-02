@@ -131,10 +131,8 @@ Please follow the project style and include descriptive commit messages.
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Charisse Priego**
 📧 [charissepriego0140@gmail.com](mailto:charissepriego0140@gmail.com)
 🌐 [GitHub Profile](https://github.com/elbse)
 
 
-
-*Generated and formatted for a GitHub `README.md`.*
