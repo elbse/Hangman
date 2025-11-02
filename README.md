@@ -63,7 +63,7 @@ Or download a ZIP from GitHub and extract to your preferred folder.
 From the project folder run:
 
 ```bash
-python app.py
+python hangman.py
 ```
 
 The Hangman window will open — start guessing! 🎯
@@ -74,7 +74,7 @@ The Hangman window will open — start guessing! 🎯
 
 ```
 hangman-tkinter/
-├── hangman_gui.py     # Main game code
+├── hangman.py     # Main game code
 ├── README.md          # Project documentation
 └── words.txt          # (Optional) External word list
 ```
