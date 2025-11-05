@@ -1,4 +1,4 @@
-# 🎯 Hangman (Tkinter)
+# 🎯 Hangman 
 
 A simple and fun **Hangman** game built with **Python** and **Tkinter**. Players guess letters to uncover a hidden word. This repository includes a clean dark-themed GUI and is easy to extend.
 
